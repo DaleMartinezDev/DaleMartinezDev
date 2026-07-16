@@ -2,7 +2,7 @@
 
 # 🦇 DALE MARTINEZ
 
-### `Discord Bot Developer • Backend • JavaScript • Node.js`
+### `Discord Bot Developer • Backend • JavaScript • Node.js `
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+Premium+Discord+Bots...;Automation+%7C+APIs+%7C+Dashboards;Welcome+to+my+GitHub."/>
 
@@ -66,34 +66,6 @@ github.com/DaleMartinezDev
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DaleMartinezDev&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaleMartinezDev&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaleMartinezDev&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000&line=ff0000&point=ffffff"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DaleMartinezDev&theme=radical&no-frame=true&row=2&column=4"/>
-
----
-
-# 🐍 Snake
-
-<img src="https://raw.githubusercontent.com/DaleMartinezDev/DaleMartinezDev/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
