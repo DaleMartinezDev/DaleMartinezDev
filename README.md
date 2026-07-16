@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner-dark.svg" width="100%" />
+<img src="https://w0.peakpx.com/wallpaper/167/727/HD-wallpaper-skull-earth-scary.jpg" width="100%" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;Dev+Full-Stack+Autodidata;Construindo+SaaS+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </div>
 <div align="center">
