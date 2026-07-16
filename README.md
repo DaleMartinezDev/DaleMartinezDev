@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9j6u1FbZU_dx15rl_4x1eD1jyssvsZtrR46GXLeOw3A&s=10" width="100%" height="20%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9j6u1FbZU_dx15rl_4x1eD1jyssvsZtrR46GXLeOw3A&s=10" width="100%" height="10%" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;Dev+Full-Stack+Autodidata;Construindo+SaaS+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </div>
 <div align="center">
