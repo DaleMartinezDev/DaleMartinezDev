@@ -1,59 +1,78 @@
-<div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9j6u1FbZU_dx15rl_4x1eD1jyssvsZtrR46GXLeOw3A&s=10" width="100%" height="10%" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;Dev+Full-Stack+Autodidata;Construindo+SaaS+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b12,100:1a1625&height=180&section=header&text=&fontSize=0" />
-</div>
-🕸️ Sobre mim
+<!-- Cabeçalho com divisor gótico/esotérico -->
+<p align="center">
+  <samp>
+    𓆩 ✦ 𓆪 &nbsp; 𝔴𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔱𝔥𝔢 𝔞𝔟𝔶𝔰𝔰 &nbsp; 𓆩 ✦ 𓆪
+  </samp>
+</p>
 
-yamlestudante: true
-foco: full-stack development
-interesse: SaaS e automação
-projeto_atual: bot de moderação para Discord (Node.js + discord.js v14)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g2YWNnaGptb3ZpYzd5MmsxbndhNmxuZWh5Mms4Yml5ODR3Ym1mMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XTe7LAdg000z036AHO/giphy.gif" width="100%" alt="Spider Lily Dust" />
+</p>
 
+<p align="center">
+  <sub>"Na quietude das linhas e na escuridão do código, a arte ganha vida."</sub>
+</p>
 
-🎓 Estudante e desenvolvedor full-stack autodidata
-🚀 Construindo produtos do zero — do banco de dados à interface
-🤖 Último projeto: bot de moderação completo (slash commands, SQLite, verificação automática de membros)
-🌙 Sempre aprendendo mexendo na prática
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasgrafen/sublime-gothic-theme/master/res/line.png" width="80%" />
+</p>
 
+## 𓆩♡𓆪 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢 (𝔖𝔬𝔟𝔯𝔢 𝔐𝔦𝔪)
 
+Sou um desenvolvedor focado em dar vida a ideias através de tecnologias web modernas. Enxergo o código como uma tela em branco onde a lógica encontra a estética, buscando sempre criar interfaces fluidas e sistemas robustos que funcionam em perfeita sincronia.
 
+*   🥀 **Foco atual:** Arquiteturas em tempo real e integrações dinâmicas de banco de dados.
+*   👁 **Estética:** Minimalismo, contraste escuro, interfaces limpas e expressivas.
+*   🖋 **Interesses:** Além das linhas de código, tenho grande apreço pela poesia de resistência e pelas artes visuais sombrias.
 
-</div>
+---
 
-🗂️ Projetos
+## 🕳 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔦𝔢𝔰 (𝔖𝔥𝔞𝔡𝔬𝔴 𝔖𝔱𝔞𝔨)
 
-<div align="center">
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaleMartinezDev&repo=aurora-ai&theme=dark&border_color=8A2BE2&bg_color=0d0b12" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaleMartinezDev&repo=suasala&theme=dark&border_color=8A2BE2&bg_color=0d0b12" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaleMartinezDev&repo=bot-moderacao&theme=dark&border_color=8A2BE2&bg_color=0d0b12" />
-</a>
-</div>
+Ferramentas que utilizo para moldar meus projetos no ambiente digital:
 
-†  Aurora AI — plataforma SaaS de chat com IA (Next.js, Prisma, RAG)
-†  SuaSala — sistema de gestão de salas para TCC (PostgreSQL, deploy em Render/Vercel)
-†  Bot de Moderação — bot completo para Discord com banco de dados e verificação automática
+<p align="left">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Supabase -->
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+---
 
+## 🕸 ℭ𝔲𝔯𝔯𝔢𝔫𝔱 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰 (𝔈𝔪 𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔕𝔳𝔦𝔪𝔢𝔫𝔱𝔬)
 
+*   **Mural Digital em Tempo Real:** Uma aplicação interativa para troca de mensagens síncronas usando bancos de dados reativos para conectar pessoas instantaneamente.
+*   **Aprimoramento de APIs:** Otimização de fluxos de dados e consumo de serviços assíncronos de forma segura e veloz.
 
-📊 Estatísticas
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DaleMartinezDev&show_icons=true&theme=dark&bg_color=0d0b12&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9c6d6&border_color=8A2BE2&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaleMartinezDev&theme=dark&background=0D0B12&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaleMartinezDev&layout=compact&theme=dark&bg_color=0d0b12&title_color=8A2BE2&text_color=c9c6d6&border_color=8A2BE2&hide_border=false" />
-</div>
+## ⚰ ℭ𝔬𝔫𝔱𝔞𝔠𝔱 (ℭ𝔬𝔫𝔢𝔵𝔬̃𝔢𝔰)
 
-<div align="center">
-Mostrar Imagem
+Se quiser conversar sobre desenvolvimento, trocar ideias sobre arquitetura ou simplesmente compartilhar poesias e artes conceituais, sinta-se livre para me encontrar:
+
+<p align="left">
+  <a href="mailto:seu-email@provedor.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasgrafen/sublime-gothic-theme/master/res/line.png" width="40%" />
+</p>
+
+<p align="center">
+  <sub>𝔗𝔥𝔢 𝔢𝔫𝔡 𝔦𝔰 𝔧𝔲𝔰𝔱 𝔞𝔫𝔬𝔱𝔥𝔢𝔯 𝔟𝔢𝔤𝔦𝔫𝔫𝔦𝔫𝔤.</sub>
+</p>
 
 </div>
 <div align="center">
