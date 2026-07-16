@@ -15,35 +15,31 @@
 </div>
 <br>
 <!-- TERMINAL MOCKUP -->
-<table width="100%">
-<tr><td>
 ┌──(root💀kali)-[~/dale-martinez]
 └─$ cat about.md
 
   [+] Name ................ Dale Martinez
   [+] Class ................ Backend Dev / Automation
-  [+] Current Objective .... Cybersecurity ⚔️
-  [+] Weapons of Choice .... JavaScript · Python · Node.js
-  [+] Known Exploits ....... Discord Bots · Web Backends · Scripts
+  [+] Current Objective .... Cybersecurity
+  [+] Weapons of Choice .... JavaScript, Python, Node.js
+  [+] Known Exploits ....... Discord Bots, Web Backends, Scripts
   [+] Status ............... [ONLINE] 100% uptime
 
 └─$ cat skills.scan
 
-  JavaScript   ████████████████░░░░  80%
-  Python       ██████████████░░░░░░  70%
-  Node.js      ███████████████░░░░░  75%
-  SQL / NoSQL  █████████████░░░░░░░  65%
-  Cybersec     ████████░░░░░░░░░░░░  40%  [ IN PROGRESS ]
+  JavaScript   [##############------]  80%
+  Python       [############--------]  70%
+  Node.js      [###############-----]  75%
+  SQL / NoSQL  [#############-------]  65%
+  Cybersec     [########------------]  40%  [ IN PROGRESS ]
 
 └─$ _
 
-</td></tr>
-</table>
 <br>
 <!-- ASCII HACKER -->
 <div align="center">
 <pre style="color:#00FF41;">
-                                                                           
+                                                                       
                                                                        
                               .@*::::::=@@@-                           
                             *=------------+@@*                         
@@ -86,6 +82,7 @@
                           ...................                          
                                                                        
                                                                        
+
 
     [ UNKNOWN USER DETECTED — TRACE FAILED ]
 
