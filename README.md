@@ -73,7 +73,7 @@
 <br>
 <!-- TROFÉUS ANIMADOS (piscam ao passar o mouse / carregam com efeito) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DaleMartinezDev&theme=dracula&no-frame=true&margin-w=8&row=1" />
 </div>
 <br>
 <!-- GRIMÓRIO DE ARMAS (TECH STACK) -->
