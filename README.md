@@ -59,3 +59,7 @@ Mostrar Imagem
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1625,100:0d0b12&height=100&section=footer" />
 </div>
+
+<div align="center">
+  <img src="./assets/skull-ascii.svg" width="220" />
+</div>
