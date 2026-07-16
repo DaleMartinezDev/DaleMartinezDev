@@ -1,0 +1,73 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#001a05"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1000" height="300" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="1000" height="300" fill="url(#bg)"/>
+
+    <!-- chuva de binario de fundo -->
+    <g font-family="monospace" font-size="13" fill="#00FF41" opacity="0.25">
+      <text x="40" y="0"><animate attributeName="y" values="-20;320" dur="3.3s" repeatCount="indefinite"/>01001000 01000001 01000011 01001011</text>
+      <text x="120" y="0"><animate attributeName="y" values="-20;320" dur="4.1s" begin="0.7s" repeatCount="indefinite"/>01010010 01001111 01001111 01010100</text>
+      <text x="820" y="0"><animate attributeName="y" values="-20;320" dur="3.8s" begin="0.3s" repeatCount="indefinite"/>01000011 01001111 01000100 01000101</text>
+      <text x="900" y="0"><animate attributeName="y" values="-20;320" dur="2.9s" begin="1s" repeatCount="indefinite"/>01010011 01001000 01000101 01001100 01001100</text>
+    </g>
+
+    <!-- scanlines -->
+    <g opacity="0.06">
+      <rect x="0" y="0" width="1000" height="2" fill="#00FF41"/>
+      <rect x="0" y="10" width="1000" height="2" fill="#00FF41"/>
+      <rect x="0" y="20" width="1000" height="2" fill="#00FF41"/>
+      <rect x="0" y="30" width="1000" height="2" fill="#00FF41"/>
+      <rect x="0" y="40" width="1000" height="2" fill="#00FF41"/>
+    </g>
+
+    <!-- borda neon -->
+    <rect x="4" y="4" width="992" height="292" rx="14" fill="none" stroke="#00FF41" stroke-width="2" filter="url(#glow)"/>
+
+    <!-- NOME com efeito glitch (camadas RGB deslocadas) -->
+    <g font-family="'Courier New', monospace" font-weight="bold" font-size="72" text-anchor="middle">
+      <!-- camada vermelha (glitch) -->
+      <text x="502" y="150" fill="#ff003c" opacity="0.65">
+        DALE MARTINEZ
+        <animate attributeName="x" values="502;496;502;506;502" dur="2.6s" repeatCount="indefinite"/>
+      </text>
+      <!-- camada azul (glitch) -->
+      <text x="498" y="150" fill="#00e5ff" opacity="0.55">
+        DALE MARTINEZ
+        <animate attributeName="x" values="498;504;498;492;498" dur="2.6s" repeatCount="indefinite"/>
+      </text>
+      <!-- camada principal verde -->
+      <text x="500" y="150" fill="#00FF41" filter="url(#glow)">
+        DALE MARTINEZ
+      </text>
+    </g>
+
+    <!-- linha divisoria -->
+    <line x1="300" y1="185" x2="700" y2="185" stroke="#00FF41" stroke-width="1" opacity="0.5"/>
+
+    <!-- subtitulo estilo terminal -->
+    <text x="500" y="225" font-family="monospace" font-size="20" fill="#00FF41" text-anchor="middle" filter="url(#glow)">
+      &gt; whoami || full-stack + security
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="500" y="260" font-family="monospace" font-size="13" fill="#0d5c1f" text-anchor="middle">
+      [ signal unstable // identity partially corrupted ]
+    </text>
+  </g>
+</svg>
