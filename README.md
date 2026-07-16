@@ -60,15 +60,15 @@
     <td width="50%" valign="top">
       <h3 align="center">💀 Terminal Stats</h3>
       <!-- STATS ANIMADOS DE VERDADE (github-readme-stats, tema dark, números reais) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=dark&bg_color=0a0000&title_color=ff1a1a&icon_color=8b0000&text_color=c0c0c0" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DaleMartinezDev&show_icons=true&hide_border=true&theme=dark&bg_color=0a0000&title_color=ff1a1a&icon_color=8b0000&text_color=c0c0c0" width="100%" />
     </td>
   </tr>
 </table>
 <div align="center">
 <!-- STREAK ANIMADO -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0A0000&ring=8B0000&fire=FF1A1A&currStreakLabel=FF1A1A" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaleMartinezDev&theme=dark&hide_border=true&background=0A0000&ring=8B0000&fire=FF1A1A&currStreakLabel=FF1A1A" />
 <!-- LINGUAGENS MAIS USADAS (barra animada) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=dark&bg_color=0a0000&title_color=ff1a1a&text_color=c0c0c0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaleMartinezDev&layout=compact&hide_border=true&theme=dark&bg_color=0a0000&title_color=ff1a1a&text_color=c0c0c0" />
 </div>
 <br>
 <!-- TROFÉUS ANIMADOS (piscam ao passar o mouse / carregam com efeito) -->
@@ -100,7 +100,7 @@
 <!-- COBRA COMENDO O GRÁFICO DE CONTRIBUIÇÕES (animação real, precisa de 1 passo extra — ver instruções abaixo) -->
 <div align="center">
   <h2>🐍 The Serpent Feeds on Your Commits</h2>
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/DaleMartinezDev/DaleMartinezDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 <br>
 <div align="center">
