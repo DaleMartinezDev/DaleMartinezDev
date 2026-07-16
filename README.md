@@ -1,105 +1,101 @@
 <div align="center">
 
-# 🦇 DALE MARTINEZ
+# 𝔇𝔞𝔩𝔢 𝔐𝔞𝔯𝔱𝔦𝔫𝔢𝔷
 
-### `Discord Bot Developer • Backend • JavaScript • Node.js `
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+Premium+Discord+Bots...;Automation+%7C+APIs+%7C+Dashboards;Welcome+to+my+GitHub."/>
+### 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍  •  𝘼𝙐𝙏𝙊𝙈𝘼𝙏𝙄𝙊𝙉  •  𝘾𝙔𝘽𝙀𝙍𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔
 
 </div>
 
+
+```text
+
+                                                  
+               .-+*####%%%=@@@*:%@#:              
+              .:..:=:=#@%+%@@@+@@@@- ++           
+                        .#@@@*@@@@%+@@@@+         
+     ..:.               =@@@-%@@@@*@@@@@#@@%.-    
+    .:: ...             %@@:   :.#@@@@@@@@@*@%:   
+    ..-::-==..          @@#       .*@@%%@@%%@#.   
+       =:-:-.:-....     @@         -  .+@@*@*-    
+      :.-=**+.-:::-=---:==                .+#.    
+        :-=++*:#*.:::-:-*==.              -#      
+       :---:*=%=%#%**#-*-:.=-            -+.      
+        -...:+*#**%%*=*%**#-:.          :*        
+          == -+*+-#*%####%*#=-         :          
+           =*==+*#+###%#%%@@#*:.                  
+             =@@%=:-*++**#%#+=##                  
+               =*#@@@%:#@#+*+.+%%.                
+                  #@@%%@@@@+-..=%%                
+                    .*@@@@%@@#@@@=                
+                        ::@%=%+*                  
+                                                  
+  
+
+
+'''
 ---
 
-```text      
-                                                                          
-                                                                          
-                       .-=+******#%%%%**%@@@@-:+%@#*:                     
-                     =%***==%@%*=+@@@#+#@@@@%#%@@@@@=.                    
-                           ..   ::=#=-#@@@@@%%@@@@@@-+#@@#:               
-                                    :*@@@@@#%@@@@@@*+%@@@@@#.             
-           ..                       :*@@@@##@@@@@@@@@@@@@@@@#@@%#.        
-          :..:-                    =%@@@@= .:*@@@@#%@@@@@@@#@@@@*=%%.     
-      ....  ....                   =%@@@=     . .*%@@@@@@@@@@@@@+%@%-     
-      .... .- :=.. .               =@@@+          .#@@@@@@@@@@@%@@@-=     
-       .-.-.:*:...:- .::           =@@%=             :#@@%@@@@@%@@*@.     
-          .+-::.:: ..::.. ..   .   =@@=             +:   .=%@@+%@-%.      
-        . ..--+##==...:. .--.::....:*+                         =#%*.      
-          ..:+:=*%*:=**+::-:.-+::::=%+::                       -*%.       
-           .:::+*****:*%#-..:-:-.::=%*==:                     -.%.        
-          :--:*++-=-+#==%**%##==+.--...:=-                   *:#.         
-             ..: .--=+++#@@@%#+=*#%*+#*-  :.                 .#.          
-             :   ..-=-=%%%%%##*+=+#*#%%%+--.               .*.            
-              ....  :+*+=-=*+*%%+*##+*%+*+::.              .              
-               :%@#=*..+#+++@@@%%@@%**@#****-                             
-                 .=-@@%**#*#**#+#%#*%@@@@##+-*=                           
-                   :%@@@#=-:-=#*=##***%%%****##:                          
-                     :%@@*:+@@@@%*#%#**+=-:.=%%@-                         
-                        :#%@@@@@+=%@@*==+++--=#@@=.                       
-                          -%@@@%%%@@@@@@*-:. :-*%%-                       
-                            .++=#@@@@@@%%@@%#%@*#%-                       
-                                -#%@@@#%@@@#%%%@%:                        
-                                   ..:*@%++%#-+:                          
-                                                                          
-                                                                          
+> user: Dale Martinez
+
+> role:
+Developer
+
+> specialization:
+Discord Bots
+Backend Systems
+Automation
+
+> learning:
+Cybersecurity
+
+> status:
+ONLINE ●
+
+> motivation:
+100%
+
+> code:
+unstoppable
+
+===
+FRONT-END
+━━━━━━━━━━━━━━━━━━━━
+
+HTML
+CSS
+JavaScript
 
 
-```
+BACK-END
+━━━━━━━━━━━━━━━━━━━━
 
----
+Node.js
+Python
 
-## ⚡ Terminal
 
-```bash
-$ whoami
-Dale Martinez
+DATABASE
+━━━━━━━━━━━━━━━━━━━━
 
-$ role
-Discord Bot Developer
+MySQL
+SQLite
+MongoDB
 
-$ focus
-• Premium Bots
-• Automation
-• APIs
-• Dashboards
-• Systems
 
-$ status
-Coding...
+TOOLS
+━━━━━━━━━━━━━━━━━━━━
 
-$ github
-github.com/DaleMartinezDev
-```
+Git
+GitHub
+VS Code
+Linux
 
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,mongodb,mysql,git,github,vscode&theme=dark"/>
-</p>
-
----
-
----
-
-# 🔥 Featured Projects
-
-🤖 Premium Discord Bot
-
-⚔️ Moderation System
-
-🎫 Ticket Bot
-
-💰 Economy Bot
-
-🌐 Dashboard
-
-🎵 Music Bot
-
----
-
-<p align="center">
-
-🦇 "Code in the darkness. Build without limits."
-
-</p>
+=====
+┌─────────────────────────┐
+│ USER: DaleMartinezDev   │
+├─────────────────────────┤
+│ ⭐ Stars        42       │
+│ ⚡ Commits      1.2k     │
+│ 📂 Repositories 28       │
+│ 👥 Followers    35       │
+│ 👤 Following    19       │
+└─────────────────────────┘
