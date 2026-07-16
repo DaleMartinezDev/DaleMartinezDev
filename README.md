@@ -1,6 +1,6 @@
 <div align="center">
 <!-- BANNER PRINCIPAL -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:001a00,100:003b00&height=260&section=header&text=DALE%20MARTINEZ&fontSize=70&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=%3E%20whoami%20%7C%7C%20full-stack%20%2B%20security&descAlignY=55&descSize=20&fontFamily=Fira+Code" />
+<img width="100%" src="https://raw.githubusercontent.com/DaleMartinezDev/DaleMartinezDev/main/header.svg" />
 <!-- TERMINAL DIGITADO -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kali%3A~%23+sudo+su;%5B+OK+%5D+Privilege+escalation+successful;root%40kali%3A~%23+cat+skills.txt;Backend+%7C+Automation+%7C+Discord+Bots;root%40kali%3A~%23+nmap+-A+weaknesses.exe;%5B+OK+%5D+0+vulnerabilities+found" alt="Typing SVG" />
 <br>
@@ -22,7 +22,7 @@
 <!-- ASCII HACKER -->
 <div align="center">
 <pre style="color:#00FF41;">
-                                                                             
+                                                                           
                                                                        
                               .@*::::::=@@@-                           
                             *=------------+@@*                         
@@ -65,7 +65,6 @@
                           ...................                          
                                                                        
                                                                        
-
 
     [ UNKNOWN USER DETECTED — TRACE FAILED ]
 
