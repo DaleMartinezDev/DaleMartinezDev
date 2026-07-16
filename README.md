@@ -20,18 +20,6 @@ projeto_atual: bot de moderação para Discord (Node.js + discord.js v14)
 
 
 
-⚙️ Tecnologias
-
-<div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
 
 </div>
 
