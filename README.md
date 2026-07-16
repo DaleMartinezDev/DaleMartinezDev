@@ -14,27 +14,10 @@
 
 </div>
 <br>
-<!-- TERMINAL MOCKUP -->
-┌──(root💀kali)-[~/dale-martinez]
-└─$ cat about.md
-
-  [+] Name ................ Dale Martinez
-  [+] Class ................ Backend Dev / Automation
-  [+] Current Objective .... Cybersecurity
-  [+] Weapons of Choice .... JavaScript, Python, Node.js
-  [+] Known Exploits ....... Discord Bots, Web Backends, Scripts
-  [+] Status ............... [ONLINE] 100% uptime
-
-└─$ cat skills.scan
-
-  JavaScript   [##############------]  80%
-  Python       [############--------]  70%
-  Node.js      [###############-----]  75%
-  SQL / NoSQL  [#############-------]  65%
-  Cybersec     [########------------]  40%  [ IN PROGRESS ]
-
-└─$ _
-
+<!-- TERMINAL MOCKUP (imagem SVG animada — não quebra com tradução nem markdown) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DaleMartinezDev/DaleMartinezDev/main/terminal.svg" width="100%" />
+</div>
 <br>
 <!-- ASCII HACKER -->
 <div align="center">
