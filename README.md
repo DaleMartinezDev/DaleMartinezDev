@@ -57,9 +57,9 @@ ONLINE ●
 > code:
 unstoppable
 
-===
+
 FRONT-END
-━━━━━━━━━━━━━━━━━━━━
+
 
 HTML
 CSS
@@ -67,14 +67,13 @@ JavaScript
 
 
 BACK-END
-━━━━━━━━━━━━━━━━━━━━
 
 Node.js
 Python
 
 
 DATABASE
-━━━━━━━━━━━━━━━━━━━━
+
 
 MySQL
 SQLite
@@ -82,14 +81,14 @@ MongoDB
 
 
 TOOLS
-━━━━━━━━━━━━━━━━━━━━
+
 
 Git
 GitHub
 VS Code
 Linux
 
-=====
+
 ┌─────────────────────────┐
 │ USER: DaleMartinezDev   │
 ├─────────────────────────┤
