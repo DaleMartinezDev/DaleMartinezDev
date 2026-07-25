@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:20262e,100:0a0c10&height=120&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:20262e,100:0a0c10&height=120&section=header&reversal=false" height="20%" width="100%"/>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt13_amtnxrKmjTK2GWyeSYweIe7Z9KnAx_eWPXlm0fg&s=10" width="100%" alt="banner personalizado" />
 
