@@ -95,21 +95,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🌫️ Aurora AI**
-Plataforma SaaS de chat com IA, com RAG, autenticação JWT, planos de assinatura e pagamento via PIX.
-`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
-
-**🌫️ Personal AI Platform**
-Cada usuário com sua própria IA de memória persistente, agentes, automações e marketplace.
-`NestJS` ·  · `Docker` . 
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 **🌫️ SuaSala**
 Sistema de gestão de salas para escola (TCC), com fluxos separados para professores e alunos.
@@ -118,9 +104,9 @@ Sistema de gestão de salas para escola (TCC), com fluxos separados para profess
 </td>
 <td width="50%" valign="top">
 
-**🌫️ pequeño mariacho**
+**🌫️ Tux **
 Bot de moderação para Discord com AutoMod, logging e perfis customizáveis.
-`discord.js v14` · `SQLite` · `Python`
+`discord.js v14` · `SQLite` · `javascript` . `python` 
 
 </td>
 </tr>
