@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:20262e,100:0a0c10&height=120&section=header&reversal=false" width="100%"/>
-
-<img src="https://images.unsplash.com/photo-1511553677255-ba939e5537e0?fm=jpg&q=80&w=1600&h=450&fit=crop" width="100%" alt="banner personalizado" />
-
 <br/>
 
 <!-- ======================================================= -->
@@ -12,8 +8,7 @@
 <!-- ======================================================= -->
 
 ```
-                    (                                                                     
-                                                                     
+                              
                                                        ..            
                                                        .:            
                            .*@-       :=-                            
@@ -45,7 +40,7 @@
                         -      ..   .-.-:   ::                       
                                     : :                              
                                                                      
-                                 .-                                  
+                                                               
                                                                      
 
 ```
