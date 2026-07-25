@@ -2,13 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:20262e,100:0a0c10&height=120&section=header&reversal=false" width="100%"/>
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt13_amtnxrKmjTK2GWyeSYweIe7Z9KnAx_eWPXlm0fg&s=10" width="100%" alt="banner personalizado" />
+
+<br/>
+
 <!-- ======================================================= -->
-<!-- 🌲 ESPAÇO PRA SUA ARTE — troque a linha abaixo            -->
-<!-- Suba sua imagem/gif em assets/sua-arte.png (ou .gif)      -->
-<!-- Tamanho recomendado: 1400x500px (ou mais largo)           -->
+<!-- 🌲 ESPAÇO PRA SUA ARTE ASCII — cole ela dentro do bloco   -->
+<!-- abaixo, entre os ```                                     -->
 <!-- ======================================================= -->
 
-<img src="./assets/sua-arte.png" width="100%" alt="banner personalizado" />
+```
+                    (cole sua arte ASCII aqui)
+```
 
 <br/>
 
@@ -97,15 +102,15 @@ Bot de moderação para Discord com AutoMod, logging e perfis customizáveis.
 
 ### `stats --live`
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=8B939B&icon_color=6e7681&text_color=8B939B" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D1117&stroke=232830&ring=6e7681&fire=8B939B&currStreakLabel=8B939B" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=DaleMartinezDev&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=8B939B&icon_color=6e7681&text_color=8B939B" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaleMartinezDev&hide_border=true&background=0D1117&stroke=232830&ring=6e7681&fire=8B939B&currStreakLabel=8B939B" height="165" />
 
 <br/><br/>
 
 ### `git log --contributions`
 
 <!-- gerado automaticamente pelo workflow em .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/dist/snake-dark.svg" width="100%" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/DaleMartinezDev/DaleMartinezDev/output/dist/snake-dark.svg" width="100%" alt="snake animation" />
 
 </div>
 
