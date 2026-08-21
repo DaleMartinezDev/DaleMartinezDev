@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101b16,100:39ff88&height=180&section=header&text=VITOR&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20BUILDING%20IN%20PUBLIC&descAlignY=64&descSize=14&descColor=9bffbd" width="100%" alt="Vitor, Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:111111,100:4a171b&height=180&section=header&text=VITOR&fontSize=68&fontColor=f2f2f2&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20BUILDING%20IN%20PUBLIC&descAlignY=64&descSize=14&descColor=aa9698" width="100%" alt="Vitor, Full-Stack Developer" />
 
 <br/>
 
-<a href="https://github.com/VictorTRandom"><img src="https://img.shields.io/github/followers/VictorTRandom?label=FOLLOWERS&style=flat-square&color=39ff88&labelColor=0b0f0d" alt="Seguidores no GitHub" /></a>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-39ff88?style=flat-square&labelColor=0b0f0d" alt="Status: construindo" />
-<img src="https://img.shields.io/badge/BASED_IN-BRAZIL-ff6b5f?style=flat-square&labelColor=0b0f0d" alt="Localização: Brasil" />
+<a href="https://github.com/VictorTRandom"><img src="https://img.shields.io/github/followers/VictorTRandom?label=FOLLOWERS&style=flat-square&color=9a7779&labelColor=080808" alt="Seguidores no GitHub" /></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-9a7779?style=flat-square&labelColor=080808" alt="Status: construindo" />
+<img src="https://img.shields.io/badge/BASED_IN-BRAZIL-706568?style=flat-square&labelColor=080808" alt="Localização: Brasil" />
 
 <br/><br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
 
 ### `./vitor --about`
 
@@ -32,7 +32,7 @@
 └─────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
 
 ### `tech --stack`
 
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,tailwind,docker,git&theme=dark" alt="JavaScript, TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, Tailwind CSS, Docker e Git" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
 
 ### `projects --featured`
 
@@ -73,14 +73,14 @@ AutoMod, logging e perfis customizáveis para deixar servidores mais seguros e f
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
 
 <div align="center">
 
 ### `github --stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorTRandom&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0f0d&title_color=39ff88&icon_color=ff6b5f&text_color=c8d8ce" height="165" alt="Estatísticas do GitHub" />
-<img src="https://streak-stats.demolab.com/?user=VictorTRandom&hide_border=true&background=0B0F0D&stroke=23352b&ring=39ff88&fire=ff6b5f&currStreakLabel=39ff88&sideNums=c8d8ce&currStreakNum=c8d8ce" height="165" alt="Sequência de contribuições" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictorTRandom&show_icons=true&hide_title=true&hide_border=true&bg_color=080808&title_color=aa9698&icon_color=9a7779&text_color=c7c0c0" height="165" alt="Estatísticas do GitHub" />
+<img src="https://streak-stats.demolab.com/?user=VictorTRandom&hide_border=true&background=080808&stroke=2a2021&ring=9a7779&fire=aa9698&currStreakLabel=aa9698&sideNums=c7c0c0&currStreakNum=c7c0c0" height="165" alt="Sequência de contribuições" />
 
 <br/><br/>
 
@@ -95,4 +95,4 @@ AutoMod, logging e perfis customizáveis para deixar servidores mais seguros e f
   <samp><b>while (alive) { build(); learn(); repeat(); }</b></samp>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:101b16,100:050505&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a171b,50:111111,100:030303&height=100&section=footer" width="100%" />
