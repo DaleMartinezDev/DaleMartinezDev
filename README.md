@@ -118,15 +118,15 @@ Bot de moderação para Discord com AutoMod, logging e perfis customizáveis.
 
 ### `stats --live`
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaleMartinezDev&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=8B939B&icon_color=6e7681&text_color=8B939B" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaleMartinezDev&hide_border=true&background=0D1117&stroke=232830&ring=6e7681&fire=8B939B&currStreakLabel=8B939B" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictorTRandom&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=8B939B&icon_color=6e7681&text_color=8B939B" height="165" alt="Estatísticas do GitHub" />
+<img src="https://streak-stats.demolab.com/?user=VictorTRandom&hide_border=true&background=0D1117&stroke=232830&ring=6e7681&fire=8B939B&currStreakLabel=8B939B" height="165" alt="Sequência de contribuições" />
 
 <br/><br/>
 
 ### `git log --contributions`
 
 <!-- gerado automaticamente pelo workflow em .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/DaleMartinezDev/DaleMartinezDev/output/dist/snake-dark.svg" width="100%" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/VictorTRandom/VictorTRandom/output/dist/snake-dark.svg" width="100%" alt="Animação das contribuições" />
 
 </div>
 
