@@ -1,59 +1,16 @@
 <div align="center">
 
-<br/>
-
-<!-- ======================================================= -->
-<!-- 🌲 ESPAÇO PRA SUA ARTE ASCII — cole ela dentro do bloco   -->
-<!-- abaixo, entre os ```                                     -->
-<!-- ======================================================= -->
-
-```
-                              
-                                                       ..            
-                                                       .:            
-                           .*@-       :=-                            
-                     @=    @@@@%.    +@@@#          =-               
-             =@+    +@@%  =@@@@@%   +@@@@@*    .=    =#              
-            .#@@=  +@@@@# %@@@@@@: =@@@@@@#  .%@%.  *@%.             
-            :@@@@- +@@@@@*%@@@@@@#.%@@@@@@#  @@@@+.@@@#              
-          .=:@@@@@=*@@@@@%@@@@@@@#+@@@@@@@#=@@@@@%@@@@*              
-          -%@@@@@@%#@@@@@@@@@@@@@#=@@@@@@@+@@@@@@@%@@@.=@.           
-        .%@@@@@@@@@%@@@@@@:::+#*-  -+%@=*-%@@@@@@#%@@@@@@*#.         
-         @%@@%#@@@@= .+*+                  -*%*#**@@@@@@@*@:         
-         @@@@-#@@@@=                            @@@%-*@@@:@:         
-               =@@@+                            @@@%. =%.-:          
-                 *@+    =                      .@@#                  
-                  .*.   .                      #@+                   
-                                              -.                     
-            :@%                                                      
-            =@@.                                      .*. .          
-            -@@*       -#                   :=        @@+            
-             +@@@:    +@.                    @+      =@=.            
-             +@@@-*@:*@@-                    @@:+@@%*@@#%            
-             +@@+%@@=@@@*                   :@@@:@@@###%#            
-             .%@+%@@@@@@@%%:                #@@@+@@@=  .             
-              .: #@@%@@@@@@@@@=**@%@@@%@@@@+%@@@@@@# .               
-                 *%%*@@@@@@@@@@@@%*@@@@@@@@%@@@@%@%.                 
-                  .:+@@@#+@@@@@@@%*@@@@%@@@%@@%:--                   
-                     @@@#-%@@:%@@#=@@@-*@@%%@@@*                     
-                     :%#.  %= :@@: %@= =@@ :=@#.                     
-                        -      ..   .-.-:   ::                       
-                                    : :                              
-                                                                     
-                                                               
-                                                                     
-
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101b16,100:39ff88&height=180&section=header&text=VITOR&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20BUILDING%20IN%20PUBLIC&descAlignY=64&descSize=14&descColor=9bffbd" width="100%" alt="Vitor, Full-Stack Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=8B939B&center=true&vCenter=true&width=650&lines=Vitor+%7C+Full-Stack+Developer;Construindo+SaaS+do+zero;Node.js+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL;Sempre+aprendendo%2C+sempre+testando" alt="typing" />
+<a href="https://github.com/VictorTRandom"><img src="https://img.shields.io/github/followers/VictorTRandom?label=FOLLOWERS&style=flat-square&color=39ff88&labelColor=0b0f0d" alt="Seguidores no GitHub" /></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-39ff88?style=flat-square&labelColor=0b0f0d" alt="Status: construindo" />
+<img src="https://img.shields.io/badge/BASED_IN-BRAZIL-ff6b5f?style=flat-square&labelColor=0b0f0d" alt="Localização: Brasil" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/status-online-6e7681?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Brasil-6e7681?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/foco-IA%20%26%20SaaS-6e7681?style=flat-square&labelColor=0d1117"/>
+<samp><b>Eu transformo ideias em produtos que funcionam.</b><br/>SaaS, automações e sistemas com IA do primeiro commit ao deploy.</samp>
 
 </div>
 
@@ -61,35 +18,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
 
-### `whoami`
+### `./vitor --about`
 
-```
-> autodidata, curioso, um projeto atrás do outro
-> foco atual: plataformas de IA com memória persistente e SaaS de ponta a ponta
-> baseado no Brasil
+```text
+┌─────────────────────────────────────────┐
+│ autodidata, curioso e sempre construindo │
+│                                         │
+│ agora estudando:                        │
+│ plataformas de IA + memória persistente │
+│ SaaS de ponta a ponta                   │
+│                                         │
+│ localização: Brasil                     │
+└─────────────────────────────────────────┘
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
 
-### `stack --list`
+### `tech --stack`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=8B939B" />
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=8B939B" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8B939B" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,tailwind,docker,git&theme=dark" alt="JavaScript, TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, Tailwind CSS, Docker e Git" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0a0c10&height=3&width=100%25"/>
 
-### `ls projetos/`
+### `projects --featured`
 
 <table>
 <tr>
@@ -97,16 +50,24 @@
 
 
 
-**🌫️ SuaSala**
-Sistema de gestão de salas para escola (TCC), com fluxos separados para professores e alunos.
+#### `01` · SuaSala
+
+> Gestão de salas para escolas, criada como TCC.
+
+Fluxos separados para professores e alunos, com foco em uma experiência simples e organizada.
+
 `Node.js` · `PostgreSQL` · `JS`
 
 </td>
 <td width="50%" valign="top">
 
-**🌫️ Tux **
-Bot de moderação para Discord com AutoMod, logging e perfis customizáveis.
-`discord.js v14` · `SQLite` · `javascript` . `python` 
+#### `02` · Tux
+
+> Moderação para comunidades no Discord.
+
+AutoMod, logging e perfis customizáveis para deixar servidores mais seguros e fáceis de administrar.
+
+`discord.js v14` · `SQLite` · `JavaScript` · `Python`
 
 </td>
 </tr>
@@ -116,22 +77,22 @@ Bot de moderação para Discord com AutoMod, logging e perfis customizáveis.
 
 <div align="center">
 
-### `stats --live`
+### `github --stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorTRandom&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=8B939B&icon_color=6e7681&text_color=8B939B" height="165" alt="Estatísticas do GitHub" />
-<img src="https://streak-stats.demolab.com/?user=VictorTRandom&hide_border=true&background=0D1117&stroke=232830&ring=6e7681&fire=8B939B&currStreakLabel=8B939B" height="165" alt="Sequência de contribuições" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictorTRandom&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0f0d&title_color=39ff88&icon_color=ff6b5f&text_color=c8d8ce" height="165" alt="Estatísticas do GitHub" />
+<img src="https://streak-stats.demolab.com/?user=VictorTRandom&hide_border=true&background=0B0F0D&stroke=23352b&ring=39ff88&fire=ff6b5f&currStreakLabel=39ff88&sideNums=c8d8ce&currStreakNum=c8d8ce" height="165" alt="Sequência de contribuições" />
 
 <br/><br/>
-
-### `git log --contributions`
 
 <!-- gerado automaticamente pelo workflow em .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/VictorTRandom/VictorTRandom/output/dist/snake-dark.svg" width="100%" alt="Animação das contribuições" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:20262e,100:0a0c10&height=100&section=footer" width="100%"/>
+<br/>
 
 <div align="center">
-<sub>feito nas horas mais silenciosas</sub>
+  <samp><b>while (alive) { build(); learn(); repeat(); }</b></samp>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:101b16,100:050505&height=100&section=footer" width="100%" />
