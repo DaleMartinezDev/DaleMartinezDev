@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:#030303;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:111111,100:4a171b&height=180&section=header&text=VITOR&fontSize=68&fontColor=f2f2f2&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20BUILDING%20IN%20PUBLIC&descAlignY=64&descSize=14&descColor=aa9698" width="100%" alt="Vitor, Full-Stack Developer" />
 
@@ -10,29 +10,37 @@
 
 <br/><br/>
 
-<samp><b>Eu transformo ideias em produtos que funcionam.</b><br/>SaaS, automações e sistemas com IA do primeiro commit ao deploy.</samp>
+<samp><b>Eu transformo ideias em produtos que funcionam.</b><br/><span style="color:#8f7779;">SaaS, automações e sistemas com IA do primeiro commit ao deploy.</span></samp>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a171b,50:181011,100:030303&height=3&width=100%25"/>
 
 ### `./vitor --about`
 
 ```text
-┌─────────────────────────────────────────┐
-│ autodidata, curioso e sempre construindo │
+┌─ profile.status ─────────────────────────┐
 │                                         │
-│ agora estudando:                        │
-│ plataformas de IA + memória persistente │
-│ SaaS de ponta a ponta                   │
+│  role       autodidata / builder         │
+│  mindset    curioso, sempre construindo  │
+│  focus      IA + memória persistente     │
+│  direction  SaaS de ponta a ponta        │
+│  base       Brasil                       │
 │                                         │
-│ localização: Brasil                     │
 └─────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a171b,50:181011,100:030303&height=3&width=100%25"/>
+
+<table>
+<tr>
+<td bgcolor="#080808" width="33%" align="center"><samp><b>01</b><br/><small>IDEAS</small><br/>concepção</samp></td>
+<td bgcolor="#0d0a0b" width="33%" align="center"><samp><b>02</b><br/><small>BUILD</small><br/>execução</samp></td>
+<td bgcolor="#120b0c" width="33%" align="center"><samp><b>03</b><br/><small>SHIP</small><br/>entrega</samp></td>
+</tr>
+</table>
 
 ### `tech --stack`
 
@@ -40,13 +48,13 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,tailwind,docker,git&theme=dark" alt="JavaScript, TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, Tailwind CSS, Docker e Git" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a171b,50:181011,100:030303&height=3&width=100%25"/>
 
 ### `projects --featured`
 
-<table>
+<table border="0" cellpadding="18" cellspacing="8">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#080808">
 
 
 
@@ -59,7 +67,7 @@ Fluxos separados para professores e alunos, com foco em uma experiência simples
 `Node.js` · `PostgreSQL` · `JS`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d0a0b">
 
 #### `02` · Tux
 
@@ -73,9 +81,9 @@ AutoMod, logging e perfis customizáveis para deixar servidores mais seguros e f
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2021,100:080808&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a171b,50:181011,100:030303&height=3&width=100%25"/>
 
-<div align="center">
+<div align="center" style="background-color:#030303;">
 
 ### `github --stats`
 
